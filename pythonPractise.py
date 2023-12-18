@@ -1,6 +1,4 @@
-'''
-  Basics in python.
-'''
+
 
 
 '''
